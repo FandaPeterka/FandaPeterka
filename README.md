@@ -4,9 +4,12 @@ I'm a 22-year-old software developer from the Czech Republic, currently studying
 
 ### A bit about me:
 
-- 🌐 **Web Developer**: My primary focus is on building dynamic, responsive websites and applications. I enjoy working with JavaScript, TypeScript, React, HTML, CSS, SQL, and MongoDB.
+- 🌐 **Web Developer**: My primary focus is on building dynamic, responsive websites and applications. I enjoy working with JavaScript, TypeScript, React, Next.js, HTML, CSS, SQL, and MongoDB.
 
 - 💻 **Scripting Enthusiast**: Alongside web development, I also write PowerShell scripts to automate and simplify tasks, especially on Windows systems.
 
-- 📖 **Lifelong Learner**: I’m constantly expanding my skills and knowledge, exploring modern programming practices, and diving into new technologies.
+### My Current Focus:
 
+Right now, I’m dedicated to my studies at Unicorn University, honing my skills and knowledge in software development. However, I’m always open to exciting new opportunities and collaborations that align with my growth and passion for tech.
+
+Thanks for visiting my profile! Feel free to check out my repositories or connect with me—I’m always open to connecting with like-minded developers and potential collaborators!
