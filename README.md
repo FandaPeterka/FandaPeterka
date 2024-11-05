@@ -1,13 +1,13 @@
 ## František Peterka
 🚀 **`Digital Solutions Creator (Software Developer | IT Specialist)`**
 
-I'm a 22-year-old software developer from the Czech Republic, currently studying Software Development at Unicorn University. I’m passionate about crafting efficient, elegant solutions and always excited to dive into new challenges in the world of tech.
+I'm a 22-year-old software developer from the Czech Republic 🇨🇿, currently studying Software Development at Unicorn University 🎓. I’m passionate about crafting efficient, elegant solutions and always excited to dive into new challenges in the world of tech.
 
 ### A bit about me:
 
-- 🌐 **Web Developer**: My primary focus is on building dynamic, responsive websites and applications. I enjoy working with JavaScript, TypeScript, React, Next.js, HTML, CSS, SQL, and MongoDB.
+- **Web Developer**: My primary focus is on building dynamic, responsive websites and applications. I enjoy working with JavaScript, TypeScript, React, Next.js, HTML, CSS, SQL, and MongoDB.
 
-- 💻 **Scripting Enthusiast**: Alongside web development, I also write PowerShell scripts to automate and simplify tasks, especially on Windows systems.
+- **Scripting Enthusiast**: Alongside web development, I also write PowerShell scripts to automate and simplify tasks, especially on Windows systems.
 
 ### My Current Focus:
 
@@ -16,7 +16,7 @@ Right now, I’m dedicated to my studies at Unicorn University, honing my skills
 
 ---
 
-###  My tools
+###  My tools:
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
