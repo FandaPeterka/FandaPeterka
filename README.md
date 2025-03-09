@@ -1,7 +1,7 @@
 ## František Peterka
 🚀 **`Digital Solutions Creator (Software Developer | IT Specialist)`**
 
-I'm a 22-year-old software developer from the Czech Republic 🇨🇿, currently studying Software Development at Unicorn University 🎓.
+I'm a 23-year-old software developer from the Czech Republic 🇨🇿, currently studying Software Development at Unicorn University 🎓.
 
 ### A bit about me:
 
